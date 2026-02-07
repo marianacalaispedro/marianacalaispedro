@@ -48,6 +48,7 @@ This space will keep evolving — just like I am.
 
 - Check out more of my work: https://marianacalaispedro.com/
 - Take a look at my CV: [Download my CV](./Mariana_Calais-Pedro_cv.pdf)
+- Lets connect: www.linkedin.com/in/mariana-calais-pedro
 - 📫 How to reach me: mcalaispedro@gmail.com
 
 ---
