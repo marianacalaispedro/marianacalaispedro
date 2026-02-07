@@ -47,6 +47,7 @@ Thanks for stopping by and taking a look at my work 🙏
 This space will keep evolving — just like I am.
 
 - Check out more of my work: https://marianacalaispedro.com/
+- Take a look at my CV: [Download my CV](./Mariana_Calais-Pedro_cv.pdf)
 - 📫 How to reach me: mcalaispedro@gmail.com
 
 ---
