@@ -46,8 +46,7 @@ I’m especially interested in paths that **bridge data, art, and interaction**,
 Thanks for stopping by and taking a look at my work 🙏 
 This space will keep evolving — just like I am.
 
-- 📫 How to reach me: https://marianacalaispedro.com/
+- Check out more of my work: https://marianacalaispedro.com/
+- 📫 How to reach me: mcalaispedro@gmail.com
 
 ---
-
-
