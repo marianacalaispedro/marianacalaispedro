@@ -22,7 +22,7 @@ I’m especially interested in paths that **bridge data, art, and interaction**,
 ## 🛠️ Tools, Technologies & Creative Skills
 
 ### 💻 Technical
-- **Languages:** Python  
+- **Languages:** Python, Java 
 - **Libraries:** pandas, NumPy, matplotlib, scikit-learn,   
 - **Other:** Git, GitHub, Jupyter Notebook, PowerBI  
 
